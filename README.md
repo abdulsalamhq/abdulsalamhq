@@ -1,5 +1,7 @@
 ### Hey 👋🏽, I'm [AbdulSalam!](https://github.com/abdulsalamhq/) 
 
+[![visits Badge](https://badges.pufler.dev/visits/abdulsalamhq/abdulsalamhq)](https://badges.pufler.dev/visits/abdulsalamhq/abdulsalamhq)
+
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/abdulsalamhq)
 [<img align="left" alt="Upwork" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://www.upwork.com/freelancers/~01e530fbc5e4f049e0)
 [<img align="left" alt="Fiver" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
