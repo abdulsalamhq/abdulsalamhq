@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm AbdulSalam, a Full Stack Developer 🚀 from Pakistan, currently, I'm a Working in  🙍🏽‍♂️ [@Dynovative Technologies](http://dynovativetechnologies.com/), Freelancer 👨🏽‍💻, Beside's programming, I enjoy playing video games and traveling.
+Hi, I'm AbdulSalam, a Full Stack Developer 🚀 from Pakistan, currently, I'm a Working in  🙍🏽‍♂️ [@idera](https://www.idera.com/), Freelancer 👨🏽‍💻, Beside's programming, I enjoy playing video games and traveling.
   
 **Talking about Personal Stuffs:**
 
